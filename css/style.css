@@ -58,3 +58,7 @@ body {
   outline: none;
   border-color: rgba(255,255,255,.75);
 }
+
+#ticket tfoot th:last-child {
+  text-align: right;
+}
